@@ -17,10 +17,6 @@
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="itext\io\**\*.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
     <EmbeddedResource Include="resources\AdobeGlyphList.txt">
       <LogicalName>iText.IO.Font.AdobeGlyphList.txt</LogicalName>
     </EmbeddedResource>

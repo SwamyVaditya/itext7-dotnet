@@ -19,9 +19,6 @@
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
     <EmbeddedResource Include="78-EUC-H" />
     <EmbeddedResource Include="78-EUC-V" />
     <EmbeddedResource Include="78-H" />

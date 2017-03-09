@@ -19,13 +19,6 @@
   <PropertyGroup>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>
-  <ItemGroup>
-    <Compile Include="itext\kernel\**\*.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="bouncycastle\**\*.cs" />
-    <Compile Include="Properties\KeyVersionAttribute.cs" />
-	<Compile Include="KernelExtensions.cs" />
-  </ItemGroup>
   <ItemGroup Condition=" '$(TargetFramework)' == 'netstandard1.6' ">
     <PackageReference Include="NETStandard.Library" Version="1.6" />
     <PackageReference Include="System.Collections.NonGeneric" Version="4.3.0" />
