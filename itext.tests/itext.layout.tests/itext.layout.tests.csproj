@@ -2,6 +2,7 @@
   <PropertyGroup Label="Configuration">
     <SignAssembly>True</SignAssembly>
     <DelaySign>False</DelaySign>
+    <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
     <TargetFrameworks>netcoreapp1.0;net40</TargetFrameworks>

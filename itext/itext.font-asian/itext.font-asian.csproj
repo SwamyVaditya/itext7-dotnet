@@ -5,6 +5,7 @@
     <DocumentationFile>\itext.font_asian.xml</DocumentationFile>
     <RootNamespace>iText.IO.Font.Cmap</RootNamespace>
     <AssemblyName>itext.font_asian</AssemblyName>
+    <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
     <TargetFrameworks>netstandard1.6;net40</TargetFrameworks>

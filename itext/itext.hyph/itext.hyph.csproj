@@ -4,6 +4,7 @@
     <DelaySign>False</DelaySign>
     <DocumentationFile>\itext.hyph.xml</DocumentationFile>
     <RootNamespace>iText.Hyph</RootNamespace>
+    <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
     <TargetFrameworks>netstandard1.6;net40</TargetFrameworks>
